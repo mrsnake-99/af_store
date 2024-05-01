@@ -70,3 +70,4 @@ class BrandRepository extends GetxController {
 // Random commit
 Random commit
 Random commit
+Random commit
