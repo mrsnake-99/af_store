@@ -1,0 +1,117 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+# Commit at 2023-08-10 10:06:03
+# Commit at 2023-08-16 14:48:25
+# Commit at 2023-08-16 16:49:34
+# Commit at 2023-08-16 16:50:00
+# Commit at 2023-08-15 13:32:57
+# Commit at 2023-08-14 14:10:08
+# Commit at 2023-08-19 14:01:59
+# Commit at 2023-08-19 10:41:42
+# Commit at 2023-08-18 09:29:38
+# Commit at 2023-11-28 15:54:10
+# Commit at 2023-11-25 10:02:46
+# Commit at 2023-11-25 13:56:47
+# Commit at 2023-11-27 16:54:36
+# Commit at 2023-11-20 09:02:28
+# Commit at 2023-11-21 16:03:55
+# Commit at 2023-11-22 16:09:19
+# Commit at 2023-12-14 16:49:40
+# Commit at 2023-12-15 14:40:02
+# Commit at 2023-12-16 16:42:44
+# Commit at 2023-12-16 17:42:02
+# Commit at 2023-12-11 10:23:46
+# Commit at 2023-12-18 15:25:29
+# Commit at 2023-03-09 12:01:03
+# Commit at 2023-03-01 12:46:22
+# Commit at 2023-03-03 15:59:13
+# Commit at 2023-03-02 16:21:38
+# Commit at 2023-03-05 11:48:20
+# Commit at 2023-03-04 14:03:02
+# Commit at 2023-03-04 09:31:33
+# Commit at 2023-03-07 14:44:39
+# Commit at 2023-07-15 14:37:47
+# Commit at 2023-07-18 14:36:42
+# Commit at 2023-07-19 16:33:50
+# Commit at 2023-10-09 10:54:12
+# Commit at 2023-10-01 17:25:17
+# Commit at 2023-10-05 12:19:31
+# Commit at 2023-10-07 17:44:23
+# Commit at 2023-10-07 16:52:00
+# Commit at 2023-01-15 13:08:02
+# Commit at 2023-01-15 10:27:56
+# Commit at 2023-01-16 12:18:59
+# Commit at 2023-01-10 11:26:45
+# Commit at 2023-01-11 12:28:08
+# Commit at 2023-01-11 10:56:41
+# Commit at 2023-01-12 10:42:28
+# Commit at 2023-01-12 09:54:54
+# Commit at 2023-01-12 15:27:56
+# Commit at 2023-01-18 11:08:13
+# Commit at 2023-11-17 11:44:35
+# Commit at 2023-11-16 13:47:56
+# Commit at 2023-11-16 15:32:16
+# Commit at 2023-11-11 16:05:36
+# Commit at 2023-11-10 12:05:25
+# Commit at 2023-11-10 13:32:01
+# Commit at 2023-11-13 11:39:21
+# Commit at 2023-11-19 11:55:22
+# Commit at 2023-04-17 09:50:49
+# Commit at 2023-04-14 14:39:48
+# Commit at 2023-04-14 15:30:43
+# Commit at 2023-04-14 09:30:50
+# Commit at 2023-04-11 09:34:47
+# Commit at 2023-12-27 13:22:51
+# Commit at 2023-12-27 12:37:57
+# Commit at 2023-12-26 16:38:24
+# Commit at 2023-04-19 13:56:51
+# Commit at 2023-04-18 10:41:25
+# Commit at 2023-04-18 13:36:30
+# Commit at 2023-12-22 11:33:16
+# Commit at 2023-08-25 13:57:44
+# Commit at 2023-08-25 12:10:09
+# Commit at 2023-02-28 14:47:37
+# Commit at 2023-08-20 13:02:18
+# Commit at 2023-08-20 10:58:11
+# Commit at 2023-02-24 10:04:31
